@@ -76,8 +76,3 @@ The client dev server will print a local URL (e.g. http://localhost:3000 or http
 - Add tests and CI
 - Improve error handling and UX for reconnection
 
----
-If you'd like, I can:
-- finish Tailwind installation and wire it into the project,
-- create a short CONTRIBUTING.md with dev recommendations, or
-- prepare a production build and simple Dockerfiles.
