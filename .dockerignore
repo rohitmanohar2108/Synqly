@@ -1,0 +1,22 @@
+# Ignore node_modules and env files
+node_modules
+npm-debug.log
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist
+build
+*.tgz
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
